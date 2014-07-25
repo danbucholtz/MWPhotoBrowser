@@ -39,5 +39,5 @@ Pod::Spec.new do |s|
     s.dependency 'SDWebImage', '~> 3.7.1'
     s.dependency 'MBProgressHUD', '~> 0.8'
     s.dependency 'DACircularProgress'
-    s.dependency 'PSTCollectionView', '~> 1.2'
+    s.dependency 'PSTCollectionView', '~> 1.2.1'
 end
